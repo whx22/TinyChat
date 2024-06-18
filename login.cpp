@@ -14,8 +14,8 @@ login::login(QWidget *parent) :
     this->setWindowIcon(QIcon(":/images/send.png"));
     this->setWindowTitle("Tiny Chat");
     QList<QString> name_list;
-    name_list << "毛泽东" << "刘少奇" << "李先念" << "杨尚昆" << "邓小平" << "江泽民" \
-              << "胡锦涛" << "习近平" << "周恩来" << "李强" << "王胡鑫";
+    name_list << "小王" << "小丁" << "小李" << "小张" << "碇真嗣" << "绫波丽" \
+              << "明日香" << "渚薰" << "葛城美里" << "碇源堂" << "碇唯";
     QStringList icon_name_list;
     icon_name_list << "car" << "computer" << "dog" << "duck" << "gray_cat" << "rabbit" \
                    << "spider" << "sun" << "water" << "whale" << "white_cat";
