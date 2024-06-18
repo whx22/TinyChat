@@ -20,7 +20,7 @@
       <widget class="QTextBrowser" name="text_browser"/>
      </item>
      <item>
-      <widget class="QFrame" name="">
+      <widget class="QFrame" name="frame">
        <property name="frameShape">
         <enum>QFrame::Box</enum>
        </property>
@@ -251,7 +251,7 @@
     </layout>
    </item>
    <item>
-    <widget class="QTableView" name="user"/>
+    <widget class="QTableView" name="user_list"/>
    </item>
   </layout>
  </widget>
