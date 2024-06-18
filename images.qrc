@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/car.png</file>
+        <file>images/clear.png</file>
+        <file>images/color.png</file>
+        <file>images/computer.png</file>
+        <file>images/dog.png</file>
+        <file>images/duck.png</file>
+        <file>images/editor-bold.png</file>
+        <file>images/editor-italic.png</file>
+        <file>images/editor-under-line.png</file>
+        <file>images/gray_cat.png</file>
+        <file>images/rabbit.png</file>
+        <file>images/save.png</file>
+        <file>images/send.png</file>
+        <file>images/sheep.png</file>
+        <file>images/spider.png</file>
+        <file>images/sun.png</file>
+        <file>images/water.png</file>
+        <file>images/whale.png</file>
+        <file>images/white_cat.png</file>
+    </qresource>
+</RCC>
